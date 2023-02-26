@@ -9,3 +9,8 @@ This repository has links to my Code.org projects.
 (3) EverythingChanger App : https://studio.code.org/projects/applab/4PBhs41wuVVG6UIdNqU55OYA7eaL-qWvmjGiXSpWEqo
 
 (4) Tina's Music App : https://studio.code.org/projects/applab/omLDKrXaRibsODS5r20SWGfraLzwBBYli7Kq4SEUbnw
+
+(5) Events : https://studio.code.org/projects/applab/5oRBpjGQjVQ_s_VJgZXf1bFsdzpTJdbDrOZ88MSQyPE
+
+ (6) Get to know you! : https://studio.code.org/projects/applab/5oRBpjGQjVQ_s_VJgZXf1WizUQM93tgvHqsQ_gCrAiE
+
