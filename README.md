@@ -12,5 +12,9 @@ This repository has links to my Code.org projects.
 
 (5) Events : https://studio.code.org/projects/applab/5oRBpjGQjVQ_s_VJgZXf1bFsdzpTJdbDrOZ88MSQyPE
 
- (6) Get to know you! : https://studio.code.org/projects/applab/5oRBpjGQjVQ_s_VJgZXf1WizUQM93tgvHqsQ_gCrAiE
+(6) Get to know you! : https://studio.code.org/projects/applab/5oRBpjGQjVQ_s_VJgZXf1WizUQM93tgvHqsQ_gCrAiE
+
+(7)  Play Chemistry! : https://studio.code.org/projects/applab/KcIz3E3KiatZsrSJLthsWs7PejPCdMtOnKmjOdyruxQ
+
+
 
