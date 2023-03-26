@@ -16,5 +16,5 @@ This repository has links to my Code.org projects.
 
 (7)  Play Chemistry! : https://studio.code.org/projects/applab/KcIz3E3KiatZsrSJLthsWs7PejPCdMtOnKmjOdyruxQ
 
-
+(8) Text Editor App : https://studio.code.org/projects/applab/GGeNPCDNGDGw_CS4ioi81_o3QwvYD3xgMtAxBsn3-Ns
 
